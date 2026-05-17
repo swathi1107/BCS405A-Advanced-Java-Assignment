@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Program4 {
+module Program4a {
 }
